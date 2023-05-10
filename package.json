@@ -7,7 +7,7 @@
   },
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "jest --silent=true"
   },
   "devDependencies": {
     "@babel/core": "^7.21.8",
