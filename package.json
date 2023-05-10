@@ -7,11 +7,14 @@
   },
   "type": "module",
   "scripts": {
-    "test": "jest --silent=true"
+    "test": "jest --silent=true",
+    "lint": "eslint src/pairtest/TicketService.js",
+    "lint:fix": "eslint src/pairtest/TicketService.js --fix"
   },
   "devDependencies": {
     "@babel/core": "^7.21.8",
     "@babel/preset-env": "^7.21.5",
+    "eslint": "^8.40.0",
     "jest": "^29.5.0"
   }
 }
