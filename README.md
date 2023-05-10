@@ -8,6 +8,12 @@ You will be assessed on:
 
 - How you have ensured the following business rules are correctly met.
 
+# Running Locally
+
+Using NodeJS 18. Run:
+
+`nvm use`
+
 # Business Rules
 
 - There are 3 types of tickets i.e. Infant, Child, and Adult.
