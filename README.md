@@ -1,20 +1,14 @@
-# Cinema Tickets DWP coding exercise
+# Cinema Tickets coding exercise
 
-This is a coding exercise which will allow you to demonstrate how you code and your approach to a given problem.
+## Running Locally
 
-You will be assessed on:
+Using NodeJS 18.
 
-- Your ability to write clean, well-tested and reusable code.
+- `nvm use`
+- `npm i`
+- `npm test`
 
-- How you have ensured the following business rules are correctly met.
-
-# Running Locally
-
-Using NodeJS 18. Run:
-
-`nvm use`
-
-# Business Rules
+## Business Rules
 
 - There are 3 types of tickets i.e. Infant, Child, and Adult.
 
